@@ -10,7 +10,7 @@ In a note, whitespace is significant and preserved via conversion to
 appropriate HTML artifacts.  Specifically, this means:
 
 * tabs are converted to 4 spaces
-* newlines are converted to <br/> tags
+* newlines are converted to \<br/\> tags
 * more than two spaces (after tab conversion) in a row are converted to &nbsp;
   characters separately
 
