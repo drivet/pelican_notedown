@@ -11,7 +11,7 @@ appropriate HTML artifacts.  Specifically, this means:
 
 * tabs are converted to 4 spaces
 * newlines are converted to \<br/\> tags
-* more than two spaces (after tab conversion) in a row are converted to &nbsp;
+* more than two spaces (after tab conversion) in a row are converted to \&nbsp;
   characters separately
 
 
